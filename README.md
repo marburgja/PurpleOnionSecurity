@@ -47,6 +47,4 @@ System Selection:
 - FileCloud(
 - Windows 10 Machine
 
-
--TBD
-
+![Windows Network(2)](https://user-images.githubusercontent.com/87879035/139506029-33949bb6-873e-44be-ad67-d21840ed81bd.png)
