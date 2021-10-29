@@ -40,11 +40,11 @@ All team members will pull a morning standup and push at the end of collaborativ
 
 All pull requests will go through 2 separate approvals to ensure workflow on github is seamless.
 
-System Selection:
+## System Selection:
 
 - AWS
 - Splunk
-- FileCloud(
+- FileCloud(DLP)
 - Windows 10 Machine
 
 ![Windows Network(2)](https://user-images.githubusercontent.com/87879035/139506029-33949bb6-873e-44be-ad67-d21840ed81bd.png)
